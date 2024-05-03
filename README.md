@@ -1,2 +1,2 @@
 # Tarea1Estructura
-ejercicios resueltos
+Desarrollo de los ejerciios laboratorio
