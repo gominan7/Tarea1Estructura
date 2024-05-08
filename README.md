@@ -1,2 +1,3 @@
 # Tarea1Estructura
-Desarrollo de los ejerciios laboratorio
+En este repositorio se encontraran todas las tareas realizadas del curso de Estructura de Datos
+
