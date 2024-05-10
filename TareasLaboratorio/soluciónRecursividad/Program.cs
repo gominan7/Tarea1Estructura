@@ -77,7 +77,7 @@
 //4-Escribe una función recursiva
 //que imprima la pirámide de números invertidos del 1 al n.
 
-using System;
+//class Program
 class Program
 {
     static void ImprimirPiramideInvertida(int n, int nivel = 1)
